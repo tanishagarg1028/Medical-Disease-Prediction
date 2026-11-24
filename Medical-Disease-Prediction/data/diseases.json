@@ -1,0 +1,186 @@
+[
+  {
+    "disease": "Common Cold",
+    "doctor": "General Physician",
+    "severity": "Low",
+    "description": "A viral infection affecting the upper respiratory tract.",
+    "symptoms": [
+      "Fever",
+      "Cough",
+      "Runny Nose",
+      "Sneezing",
+      "Sore Throat"
+    ],
+    "precautions": [
+      "Take adequate rest",
+      "Drink plenty of fluids",
+      "Use steam inhalation",
+      "Eat nutritious food"
+    ]
+  },
+  {
+    "disease": "Influenza",
+    "doctor": "General Physician",
+    "severity": "Medium",
+    "description": "Influenza is a contagious viral infection affecting the respiratory system.",
+    "symptoms": [
+      "High Fever",
+      "Dry Cough",
+      "Headache",
+      "Fatigue",
+      "Muscle Pain",
+      "Chills"
+    ],
+    "precautions": [
+      "Rest",
+      "Drink water",
+      "Take medicines as prescribed",
+      "Avoid contact with others"
+    ]
+  },
+  {
+    "disease": "COVID-19",
+    "doctor": "Pulmonologist",
+    "severity": "High",
+    "description": "COVID-19 is a respiratory illness caused by the SARS-CoV-2 virus.",
+    "symptoms": [
+      "Fever",
+      "Dry Cough",
+      "Shortness of Breath",
+      "Loss of Smell",
+      "Loss of Taste",
+      "Fatigue"
+    ],
+    "precautions": [
+      "Consult a doctor",
+      "Wear a mask if required",
+      "Stay hydrated",
+      "Rest adequately"
+    ]
+  },
+  {
+    "disease": "Dengue",
+    "doctor": "General Physician",
+    "severity": "High",
+    "description": "A mosquito-borne viral infection common in tropical regions.",
+    "symptoms": [
+      "High Fever",
+      "Headache",
+      "Joint Pain",
+      "Muscle Pain",
+      "Vomiting",
+      "Skin Rash"
+    ],
+    "precautions": [
+      "Drink fluids",
+      "Monitor platelet count",
+      "Take medicines only under medical supervision"
+    ]
+  },
+  {
+    "disease": "Malaria",
+    "doctor": "General Physician",
+    "severity": "High",
+    "description": "A mosquito-borne disease caused by Plasmodium parasites.",
+    "symptoms": [
+      "Fever",
+      "Headache",
+      "Vomiting",
+      "Fatigue",
+      "Chills",
+      "Sweating"
+    ],
+    "precautions": [
+      "Consult a doctor immediately",
+      "Complete prescribed treatment",
+      "Stay hydrated"
+    ]
+  },
+  {
+    "disease": "Typhoid",
+    "doctor": "General Physician",
+    "severity": "High",
+    "description": "A bacterial infection caused by Salmonella Typhi.",
+    "symptoms": [
+      "High Fever",
+      "Weakness",
+      "Stomach Pain",
+      "Loss of Appetite",
+      "Headache"
+    ],
+    "precautions": [
+      "Drink safe water",
+      "Complete antibiotics prescribed by a doctor",
+      "Take adequate rest"
+    ]
+  },
+  {
+    "disease": "Food Poisoning",
+    "doctor": "General Physician",
+    "severity": "Medium",
+    "description": "Illness caused by consuming contaminated food or water.",
+    "symptoms": [
+      "Vomiting",
+      "Diarrhea",
+      "Nausea",
+      "Stomach Pain",
+      "Fever"
+    ],
+    "precautions": [
+      "Drink ORS",
+      "Stay hydrated",
+      "Avoid oily foods"
+    ]
+  },
+  {
+    "disease": "Migraine",
+    "doctor": "Neurologist",
+    "severity": "Medium",
+    "description": "A neurological disorder causing severe headaches.",
+    "symptoms": [
+      "Headache",
+      "Nausea",
+      "Blurred Vision",
+      "Dizziness"
+    ],
+    "precautions": [
+      "Rest in a quiet room",
+      "Reduce stress",
+      "Drink water"
+    ]
+  },
+  {
+    "disease": "Asthma",
+    "doctor": "Pulmonologist",
+    "severity": "High",
+    "description": "A chronic disease causing inflammation of the airways.",
+    "symptoms": [
+      "Shortness of Breath",
+      "Wheezing",
+      "Chest Pain",
+      "Dry Cough"
+    ],
+    "precautions": [
+      "Avoid allergens",
+      "Use inhaler as prescribed",
+      "Seek medical advice if symptoms worsen"
+    ]
+  },
+  {
+    "disease": "Diabetes",
+    "doctor": "Endocrinologist",
+    "severity": "Medium",
+    "description": "A metabolic disorder characterized by high blood sugar levels.",
+    "symptoms": [
+      "Excessive Thirst",
+      "Frequent Urination",
+      "Weight Loss",
+      "Fatigue"
+    ],
+    "precautions": [
+      "Monitor blood sugar",
+      "Exercise regularly",
+      "Follow medical advice"
+    ]
+  }
+]
